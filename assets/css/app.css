@@ -1,0 +1,40 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+/* Show it is fixed to the top */
+
+footer {
+    background-color: rgb(59, 61, 68);
+}
+
+footer ul li{
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0);
+    border: 5px white;
+    padding: 3px;
+}
+.link-secondary{
+    color: rgb(201, 201, 201);
+}
+
+.nav-link c{
+    color: grey;
+}
+
+.lingkaran{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    border-radius: 100%;
+}
+
